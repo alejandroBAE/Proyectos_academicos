@@ -1,4 +1,4 @@
-Diseño e implementación de un controlador PID analógico para un sistema de tercer orden que modela el comportamiento de una turbina eólica. Las ganancias del controlador (Kp, Ki, Kd) se ajustan en tiempo real mediante potenciómetros digitales, controlados desde una interfaz gráfica de usuario (GUI). El controlador permite la turbina siga una referencia de velocidad constante, con respuesta ajustable según los parámetros del PID.
+Diseño e implementación de un controlador PID analógico para un sistema de tercer orden que modela el comportamiento de una turbina eólica. Las ganancias del controlador (Kp, Ki, Kd) se ajustan en tiempo real mediante potenciómetros digitales, controlados desde una interfaz gráfica de usuario (GUI). El controlador permite a la turbina seguir una referencia de velocidad constante, con respuesta ajustable según los parámetros del PID.
 
 En la siguientes imagenes se muestra el esquematico del circuito que modela la turbina y su respuesta al impulso:
 
