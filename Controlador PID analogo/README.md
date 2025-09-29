@@ -14,4 +14,4 @@ Se implemento el controlador PID análogo el cual se observa en el siguiente esq
 
 <img width="1682" height="655" alt="image" src="https://github.com/user-attachments/assets/68f2c725-d2ea-4642-8c64-b986d0a39cf2" />
 
-Al implementar el circuito anterior se procedieron a realizar diferentes pruebas variando las ganancias de controlador. Para ver los resultados obtenidos consultar el informe.
+Con el circuito anterior se procedieron a realizar diferentes pruebas variando las ganancias de controlador. Para ver los resultados obtenidos consultar el informe.
